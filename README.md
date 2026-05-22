@@ -3,15 +3,15 @@ A solar-powered lighting project that stores solar energy in a battery and power
 
 Description
 
-A simple alternative lighting system powered by salt water solution. The project demonstrates the concept of generating electricity using electrolytes.
+A solar-powered lighting project that stores solar energy in a battery and powers a lighting system for sustainable energy usage.
 
-Technologies & Components
-LED
-Copper and Zinc Plates
-Salt Water Solution
-Basic Circuit Design
+Technologies Used
+Solar Panel
+Rechargeable Battery
+LED Lighting
+Charge Controller
 
 Skills Learned
-Basic Electronics
-Circuit Assembly
-Renewable Energy Concepts
+Solar Energy Systems
+Battery Charging
+Power Management
